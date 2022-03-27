@@ -8,9 +8,9 @@
     },
     {
       "id": 2,
-      "title": "project title 2",
-      "detail": "project detail 2",
-      "complete": true
+      "title": "project title 2 b",
+      "detail": "project detail 2 b",
+      "complete": false
     },
     {
       "id": 3,
@@ -29,12 +29,6 @@
       "detail": "mango",
       "complete": true,
       "id": 5
-    },
-    {
-      "title": "mah",
-      "detail": "mah",
-      "complete": false,
-      "id": 6
     }
   ]
 }
