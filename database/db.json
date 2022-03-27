@@ -10,7 +10,7 @@
       "id": 2,
       "title": "project title 2 b",
       "detail": "project detail 2 b",
-      "complete": false
+      "complete": true
     },
     {
       "id": 3,
